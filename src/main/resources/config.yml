@@ -7,7 +7,7 @@ mod:
   # For a list of protocols and their supported mod versions, refer to https://modrinth.com/plugin/female-gender-spigot
   # -1 will use the newest known protocol, so that you won't need to change this every mod and plugin update.
   # Undocumented protocols will cause this plugin to disable itself on launch.
-  protocol: -1
+  protocol: 5 
 
 # Logging of events and debug messages
 logging:
